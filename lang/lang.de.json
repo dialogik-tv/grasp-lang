@@ -1,34 +1,23 @@
-{
-    "shorties": [
-        "hey",
-        "hi",
-        "hiho",
-        "huhu",
-        "aloha",
-        "ahoi",
-        "ahoy",
-        "hallo",
-        "hello",
-        "moin",
-        "nabend",
-        "mahlzeit",
-        "servus",
-        "sers",
-        "moinsen"
-    ],
-    "needles": [
-        "guten morgen",
-        "guten tag",
-        "guten abend",
-        "was geht",
-        "wie geht",
-        "hallo ",
-        " hallo",
-        "hello ",
-        " hello",
-        "moin",
-        "nabend",
-        "mahlzeit",
-        "tach"
-    ]
-}
+[
+    "ahoi",
+    "ahoy",
+    "aloha",
+    "guten abend",
+    "guten morgen",
+    "guten tag",
+    "hallo",
+    "hello",
+    "hey",
+    "hi",
+    "hiho",
+    "huhu",
+    "mahlzeit",
+    "moin",
+    "moinsen",
+    "nabend",
+    "sers",
+    "servus",
+    "tach",
+    "was geht",
+    "wie geht"
+]

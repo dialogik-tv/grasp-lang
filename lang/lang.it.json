@@ -1,15 +1,22 @@
-{
-    "shorties": [
-        "hey",
-        "hi",
-        "ciao"
-    ],
-    "needles": [
-        "buongiorno",
-        "buon giorno",
-        "buonasera",
-        "buona sera",
-        "come va",
-        "che cosa succede"
-    ]
-}
+[
+    "arrivederci",
+    "buon giorno",
+    "buona notte",
+    "buona sera",
+    "buonasera",
+    "buongiorno",
+    "che cosa succede",
+    "ciao",
+    "come sta",
+    "come stai",
+    "come va",
+    "hey",
+    "hi",
+    "salute",
+    "saluti",
+    "salve",
+    "stammi bene",
+    "statemi bene",
+    "stia bene",
+    "tutto bene"
+]

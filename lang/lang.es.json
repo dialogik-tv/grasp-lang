@@ -1,12 +1,8 @@
-{
-    "shorties": [
-        "hey",
-        "hi",
-        "hola",
-        "eh"
-    ],
-    "needles": [
-        "que tal",
-        "que pasa"
-    ]
-}
+[
+    "eh",
+    "hey",
+    "hi",
+    "hola",
+    "que pasa",
+    "que tal"
+]

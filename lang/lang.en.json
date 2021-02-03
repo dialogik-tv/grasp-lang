@@ -1,14 +1,11 @@
-{
-    "shorties": [
-        "hey",
-        "hi",
-        "hello",
-        "wassup"
-    ],
-    "needles": [
-        "good morning",
-        "good day",
-        "good evening",
-        "how are you"
-    ]
-}
+[
+    "good day",
+    "good evening",
+    "good morning",
+    "hello",
+    "hey",
+    "hi",
+    "how are you",
+    "wassup"
+
+]

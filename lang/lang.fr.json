@@ -1,12 +1,8 @@
-{
-    "shorties": [
-        "hey",
-        "hi",
-        "salut",
-        "bonjour"
-    ],
-    "needles": [
-        "bonjour",
-        "comment ca vas"
-    ]
-}
+[
+    "bonjour",
+    "ca vas",
+    "comment ca vas",
+    "hey",
+    "hi",
+    "salut"
+]
